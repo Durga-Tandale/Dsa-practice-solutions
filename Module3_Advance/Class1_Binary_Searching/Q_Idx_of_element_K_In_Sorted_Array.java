@@ -1,6 +1,6 @@
 // Q - given sorted(distinct) array of size N, find the idx of element k, if k doesn't exist return -1.
 //k = 20
-package Module3_Advance;
+package Module3_Advance.Class1_Binary_Searching;
 
 public class Q_Idx_of_element_K_In_Sorted_Array {
 
